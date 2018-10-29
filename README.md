@@ -1,3 +1,6 @@
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/history)
+[![Stars on Vaadin Directory](https://img.shields.io/vaadin-directory/star/history.svg)](https://vaadin.com/directory/component/history)
+
 # HistoryExtension
 
 A HTML 5 history wrapper for Vaadin server-side. 
